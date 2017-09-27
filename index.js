@@ -157,7 +157,7 @@ class Seismograph extends Component {
           <div id="currentReadings">
             <div className="top">
               <h2>Current Reading</h2>
-              <h4>Now </h4>
+              <h4>Now</h4>
             </div>
             <canvas id="currentReading_canvas" width="395" height="230"></canvas>
             <div className="whitebox">
