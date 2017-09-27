@@ -10,11 +10,5 @@
   "defaultProps": {
   },
   "propChoices": {
-  },
-  "FRN_resourceEndpoints": [
-    {
-      "url": "",
-      "type": "json"
-    }
-  ]
+  }
 }
